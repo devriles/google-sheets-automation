@@ -9,6 +9,7 @@ This repo accompanies a LinkedIn series on getting more out of Google Sheets tha
 | # | Script | What it does |
 |---|--------|-------------|
 | 01 | [Overdue Highlighter](01-overdue-highlighter/) | Highlights rows where a due date has passed |
+| 02 | [Email Alerts](02-email-alerts/) | Emails you a daily summary of overdue items |
 
 ## How to use any script in this repo
 
