@@ -10,6 +10,7 @@ This repo accompanies a LinkedIn series on getting more out of Google Sheets tha
 |---|--------|-------------|
 | 01 | [Overdue Highlighter](01-overdue-highlighter/) | Highlights rows where a due date has passed |
 | 02 | [Email Alerts](02-email-alerts/) | Emails you a daily summary of overdue items |
+| 03 | [API Data Fetch](03-api-data-fetch/) | Pulls live exchange rates and weather into your sheet daily |
 
 ## How to use any script in this repo
 
